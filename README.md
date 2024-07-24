@@ -1,10 +1,10 @@
 # Kpop_Ecommerce
 
-Registration Page 
+ 
 ![image](https://github.com/user-attachments/assets/ba78a9c4-f041-4374-b558-6427c1f5a9ba)
-Login Page 
+
 ![image](https://github.com/user-attachments/assets/17be6173-0927-4327-892b-ae6a26e5da92)
-Home Page 
+
 ![image](https://github.com/user-attachments/assets/9cf7a8f9-12df-4792-9355-b4fd17e5ee2c)
 ![image](https://github.com/user-attachments/assets/3c9732f7-6fb2-440d-9f5c-85aebb3be66e)
 ![image](https://github.com/user-attachments/assets/25a94625-d2be-4a5a-91df-b221c26743e7)
