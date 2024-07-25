@@ -1,4 +1,4 @@
-# Kpop_Ecommerce Collaboration Project Isha and Sushmita
+# Kpop_Ecommerce Collaboration Project Isha and Sushmita(https://github.com/shetty-sushmita)
 
  
 ![image](https://github.com/user-attachments/assets/ba78a9c4-f041-4374-b558-6427c1f5a9ba)
